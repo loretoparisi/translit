@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# Musixmatch API API
+# Transliteration Tool
 #
-# @author Loreto Parisi at musixmatch dot com
-# Copyright (c) 2019 Musixmatch spa
+# @author Loreto at gmail dot com
+# Copyright (c) 2019 Loreto Parisi
 #
 
 import codecs
