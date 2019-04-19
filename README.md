@@ -3,6 +3,7 @@ Transliterator tool
 
 ## How to Build
 ```
+pip install -r requirements.txt
 python setup.py install
 ```
 
